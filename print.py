@@ -17,3 +17,6 @@ printer = getUSBPrinter(commandSet='Generic')(idVendor=0x04f9, idProduct=0x20a8)
 #dev = usb.core.find(idVendor=0x04F9, idProduct=0x20A8)
 printer.text("Hello World")
 printer.lf()
+
+
+https://download.brother.com/welcome/dlfp100575/ql1110nwbpdrv-2.1.4-0.i386.deb
